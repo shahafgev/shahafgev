@@ -1,6 +1,6 @@
 <h1 align="center">Welcome, I'm Shahaf 😎</h1>
 <h3 align="center"> Industrial Engineering and Management Student</h3>
-<img align="right" alt="Coding" width="450" src="https://www.springboard.com/library/static/c8a8b68015e12fea64edae0ab4e9dd71/1f368/shutterstock_1814645042.jpg">
+<img align="right" alt="Coding" width="450" src="https://www.nelibek.com.ng/wp-content/uploads/2020/03/dataanalysisistockrobuart.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShahafGev&label=Profile%20views&color=0e75b6&style=flat" alt="ShahafGev" /> </p>
