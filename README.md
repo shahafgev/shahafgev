@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShahafGev&label=Profile%20views&color=0e75b6&style=flat" alt="ShahafGev" /> </p>
 <h3 align="left">About me:</h3> </p>
 
-- 👋I'm Shahaf, a 3rd year industrial engineering and management student at BGU.
+- 👋I'm Shahaf, a 3rd year industrial engineering and management student at BGU. <br>
 I'm detail-oriented, devoted, adaptive and a great team player (and an excellent meme maker).
 I'm passionate about data analyzing and Highly motivated to develop in the field of data analysis.
 
