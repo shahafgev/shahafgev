@@ -28,6 +28,7 @@ I'm passionate about data analyzing and Highly motivated to develop in the field
 <h3 align="left">Goals for 2023:</h3> </p>
 
 - Upload a python project.
+- Attach 2 SQL challenges.
 
 
 
