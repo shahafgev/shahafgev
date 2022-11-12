@@ -14,7 +14,9 @@ I'm passionate about data analyzing and Highly motivated to develop in the field
 
 - 🌱 I code mostly in Java & SQL
 
-- 💞️ I’m currently learning python
+- 📝 I’m currently learning python
+
+- 👨‍💻 All of my projects are available at [https://shahafgev.github.io/](https://shahafgev.github.io/)
 
 
 <h3 align="left">Connect with me:</h3>
