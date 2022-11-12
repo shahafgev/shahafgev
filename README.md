@@ -7,7 +7,7 @@
 <h3 align="left">About me:</h3> </p>
 
 - 👋I'm Shahaf, a 3rd year industrial engineering and management student at BGU. <br>
-I'm detail-oriented, devoted, adaptive and a great team player (and an excellent meme maker).
+I'm detail-oriented, devoted, adaptive and a great team player (and an excellent meme maker). <br>
 I'm passionate about data analyzing and Highly motivated to develop in the field of data analysis.
 
 - 👀 I’m interested in Data analysis 
