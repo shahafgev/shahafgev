@@ -25,10 +25,6 @@ I'm passionate about data analyzing and Highly motivated to develop in the field
 <a href="https://www.facebook.com/sg149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ofer ben tzvi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Goals for 2023:</h3> </p>
-
-- Upload a python project.
-- Attach 2 SQL challenges.
 
 
 
