@@ -6,23 +6,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShahafGev&label=Profile%20views&color=0e75b6&style=flat" alt="ShahafGev" /> </p>
 <h3 align="left">About me:</h3> </p>
 
-- 👋I'm Shahaf, a 3rd year industrial engineering and management student at BGU. <br>
+- 👋I'm Shahaf, a 4th year industrial engineering and management student at BGU. <br>
 I'm detail-oriented, devoted, adaptive and a great team player (and an excellent meme maker). <br>
-I'm passionate about data analyzing and Highly motivated to develop in the field of data analysis.
-
-- 👀 I’m interested in Data analysis 
-
-- 🌱 I code mostly in Java & SQL
-
-- 📝 I’m currently learning python
-
-- 👨‍💻 All of my projects are available at [https://shahafgev.github.io/](https://shahafgev.github.io/)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shahaf-gev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ofer-bentzvi-5741601" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sg149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ofer ben tzvi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shahaf-gev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sg149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
 </p>
 
 
