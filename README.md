@@ -1,9 +1,8 @@
+<img align="right" alt="Coding" width="300" height="175" src="https://www.direct-data-analysis.co.uk/uploads/3/5/2/6/35268350/page6_orig.jpg">
 <h1 align="center">Welcome, I'm Shahaf 😎</h1>
 <h3 align="center"> Industrial Engineering and Management Student</h3>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShahafGev&label=Profile%20views&color=0e75b6&style=flat" alt="ShahafGev" /> </p>
 <h3 align="left">About me:</h3> </p>
 
 - 👋I'm Shahaf, a 4th year industrial engineering and management student at BGU. <br>
