@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="300" height="175" src="https://www.direct-data-analysis.co.uk/uploads/3/5/2/6/35268350/page6_orig.jpg">
 <h1 align="center">Welcome, I'm Shahaf 😎</h1>
-<h3 align="center"> Industrial Engineering and Management Student</h3>
+<h3 align="center"> M.Sc. Industrial Engineering and Management Student</h3>
 
 
 <h3 align="left">About me:</h3> </p>
