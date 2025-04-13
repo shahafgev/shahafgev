@@ -5,8 +5,8 @@
 
 <h3 align="left">About me:</h3> </p>
 
-- 👋I'm Shahaf, a 4th year industrial engineering and management student at BGU. <br>
-I'm detail-oriented, devoted, adaptive and a great team player (and an excellent meme maker). <br>
+- 👋I'm Shahaf, M.Sc. Industrial Engineering and Management student at BGU. <br>
+I'm detail-oriented, devoted, adaptive and a great team player. <br>
 
 
 <h3 align="left">Connect with me:</h3>
